@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491270109731",
+    "firebase_url": "https://barfinder3-1512300715085.firebaseio.com",
+    "project_id": "barfinder3-1512300715085",
+    "storage_bucket": "barfinder3-1512300715085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491270109731:android:c2d66a1f21330ab2",
+        "android_client_info": {
+          "package_name": "com.example.henryhuang.barfinder3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491270109731-01b2e4j6hbadtqk9pjgtblat2qhk7l84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.henryhuang.barfinder3",
+            "certificate_hash": "48691d83c491ee703d9a9e6839180baf1a0a78fb"
+          }
+        },
+        {
+          "client_id": "491270109731-6uano9cvl29i02eoe9ah2e8ed62joj6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrRYFH12NozMOc_bEPoNlLbwOckPK6XT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491270109731-6uano9cvl29i02eoe9ah2e8ed62joj6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
